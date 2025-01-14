@@ -1,0 +1,10 @@
+{
+  "appId": "com.axelm.webstatustracker",
+  "appName": "WebStatusTracker",
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchAutoHide": false
+    }
+  }
+}
